@@ -1,4 +1,4 @@
-![snake gif](https://github.com/sefasihlar/sefasihlar/blob/output/github-user-contribution.svg)
+![snake gif](https://github.com/sefasihlar/sefasihlar/blob/output/github.svg)
 <h1 align="center">Hi 👋, I'm SEFA SIHLAR</h1>
 <h3 align="center">A passionate Web developer from Türkiye</h3>
 
